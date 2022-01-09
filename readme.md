@@ -8,8 +8,8 @@ Solidity 0.8
 
 ## Requirement
 
-Node v14.18.0
-Truffle v5.4.27
+- Node v14.18.0
+- Truffle v5.4.27
 
 ## Installation
 

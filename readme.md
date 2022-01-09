@@ -2,6 +2,10 @@
 
 ERC20 example that can be deployed to testnet with truffle
 
+## Solidity Version
+
+Solidity 0.8
+
 ## Requirement
 
 Node v14.18.0

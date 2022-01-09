@@ -2,9 +2,14 @@
 
 ERC20 example that can be deployed to testnet with truffle
 
+## Solidity Version
+
+Solidity 0.5
+
 ## Requirement
 
-node version = v12.22.8
+Node v14.18.0
+Truffle v5.4.27
 
 ## Installation
 
@@ -24,6 +29,7 @@ WALLET_KEY={wallet mnemonic words}
 3. Compile smart contracts
 
 ```
+$ yarn
 $ yarn build
 ```
 

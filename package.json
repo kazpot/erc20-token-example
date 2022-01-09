@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "build": "truffle compile",
+    "compile": "truffle compile",
     "deploy:rinkeby": "truffle migrate --network rinkeby"
   },
   "keywords": [],
